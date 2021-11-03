@@ -2,7 +2,6 @@ package karolinah.CarList.object;
 
 public class Car {
 
-
     private int id;
     private String carBrand;
     private String carModel;
